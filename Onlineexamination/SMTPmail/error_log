@@ -1,0 +1,1 @@
+[19-Nov-2012 19:13:30] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to mail.v2marry.com:28 (Connection refused) in /home2/faithio6/public_html/v2Marry/SMTPmail/SMTPClass.php on line 35
